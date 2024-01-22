@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sorayaforward" alt="sorayaforward" /></a> </p>
 
-- 🌱 I’m currently learning **LARAVEL**
+- 🌱 I’m currently learning **CUDA**
 
 - 📫 How to reach me **sorayakhene16@gmail.com**
 
