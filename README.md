@@ -1,3 +1,4 @@
+<img src="https://github.com/sorayaForward/sorayaForward/assets/75634341/ed48c1c3-365b-4f6c-8854-ec18cd453b4e" alt="my banner">
 <h1 align="center">Hi 👋, I'm Soraya</h1>
 <h3 align="center">A passionate developer from Algeria</h3>
 
